@@ -11,7 +11,7 @@
 ## 🗂️ Projects
 | # | Project | Skills | Status |
 |---|---------|--------|--------|
-| 1 | [Network Basics with Packet Tracer](./01-Cisco Packet Tracer) | IP, Subnet, Routing | 🟢 In Progress |
+| 1 | [Network Basics with Packet Tracer](./01-Cisco_Packet_Tracer) | IP, Subnet, Routing | 🟢 In Progress |
 
 
 ## 📝 Blog Posts
